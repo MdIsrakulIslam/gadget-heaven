@@ -1,0 +1,99 @@
+[
+    {
+      "product_id": 101,
+      "product_title": "Wireless Bluetooth Headphones",
+      "product_image": "https://images.pexels.com/photos/3394654/pexels-photo-3394654.jpeg",
+      "category": "Electronics",
+      "price": 49.99,
+      "description": "High-quality wireless Bluetooth headphones with noise cancellation.",
+      "Specification": [
+        "Bluetooth 5.0",
+        "Noise Cancelling",
+        "Battery life: 20 hours",
+        "Foldable design"
+      ],
+      "availability": true,
+      "rating": 4.5
+    },
+    {
+      "product_id": 102,
+      "product_title": "Smartphone 5G",
+      "product_image": "https://images.pexels.com/photos/5081385/pexels-photo-5081385.jpeg",
+      "category": "Electronics",
+      "price": 699.99,
+      "description": "Latest 5G smartphone with an OLED display and triple camera setup.",
+      "Specification": [
+        "6.5-inch OLED display",
+        "Triple-camera system",
+        "128GB Storage",
+        "5G Connectivity"
+      ],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": 103,
+      "product_title": "Running Shoes",
+      "product_image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg",
+      "category": "Footwear",
+      "price": 89.99,
+      "description": "Lightweight and breathable running shoes for comfort and speed.",
+      "Specification": [
+        "Breathable mesh upper",
+        "Cushioned sole",
+        "Slip-resistant",
+        "Lightweight design"
+      ],
+      "availability": false,
+      "rating": 4.3
+    },
+    {
+      "product_id": 104,
+      "product_title": "Gaming Laptop",
+      "product_image": "https://images.pexels.com/photos/3360210/pexels-photo-3360210.jpeg",
+      "category": "Computers",
+      "price": 1299.99,
+      "description": "High-performance gaming laptop with RGB keyboard and dedicated graphics.",
+      "Specification": [
+        "Intel i7 10th Gen",
+        "16GB RAM",
+        "RTX 3060 GPU",
+        "512GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": 105,
+      "product_title": "Smart Watch",
+      "product_image": "https://images.pexels.com/photos/437036/pexels-photo-437036.jpeg",
+      "category": "Wearables",
+      "price": 199.99,
+      "description": "Feature-packed smart watch with fitness tracking and heart rate monitoring.",
+      "Specification": [
+        "AMOLED Display",
+        "Heart Rate Monitor",
+        "GPS Tracking",
+        "Water Resistant"
+      ],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": 106,
+      "product_title": "DSLR Camera",
+      "product_image": "https://images.pexels.com/photos/274973/pexels-photo-274973.jpeg",
+      "category": "Cameras",
+      "price": 899.99,
+      "description": "Professional DSLR camera with high-resolution sensor and optical zoom.",
+      "Specification": [
+        "24.2 MP Sensor",
+        "4K Video Recording",
+        "Optical Zoom 10x",
+        "Wi-Fi & Bluetooth"
+      ],
+      "availability": true,
+      "rating": 4.9
+    }
+  ]
+  
